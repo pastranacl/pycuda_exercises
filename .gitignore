@@ -2,5 +2,7 @@ diffusion/figs/*.png
 diffusion/.zip
 
 
+bz_reaction/figs/
 
-bz_reaction/figs/*
+
+bd_colloids/*.cu
